@@ -1,13 +1,18 @@
-# Frontend Contest Solutions Repository
+# Frontend Contest Toolkit
 
-Welcome to the **Frontend Contest Solutions** repository! 🎉
+Welcome to the **Frontend Contest Toolkit**! 🎉
 
-This repo is dedicated to providing solutions to the most challenging and tricky questions often encountered in frontend programming contests. Whether you're preparing for a contest or just want to enhance your problem-solving skills, you'll find helpful insights and answers here.
+This repository is your go-to resource for tackling the most challenging questions often seen in frontend programming contests. Whether you're preparing for a competition or sharpening your problem-solving skills, you'll find comprehensive solutions and techniques to excel in frontend development.
 
 ## What You’ll Find
-- 🧠 Solutions to the hardest frontend programming questions
-- 📚 Well-commented code to aid understanding
-- 🔥 Techniques and strategies for tackling complex problems
+- 🧠 Solutions to the toughest frontend programming challenges
+- 📚 Detailed explanations with well-commented code
+- ⚙️ Tools and strategies for improving your problem-solving abilities
 
-## List of Content
-- 
+## Questions
+- [Task Queue](https://github.com/mahdipakravan-dev/frontend-contest-toolkit/tree/main/task-queue)
+
+## License
+This repository is licensed under the MIT License.
+
+Happy coding! 🚀
